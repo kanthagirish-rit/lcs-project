@@ -3,3 +3,4 @@
 *.txt
 *.jpg
 plots.py
+__pycache__
