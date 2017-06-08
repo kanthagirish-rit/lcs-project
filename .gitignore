@@ -1,7 +1,6 @@
 .*
 !/.gitignore
 *.txt
-*.jpg
 plots.py
 __pycache__
 *.pyc
