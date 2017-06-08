@@ -4,3 +4,4 @@
 *.jpg
 plots.py
 __pycache__
+*.pyc
