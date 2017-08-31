@@ -1,6 +1,6 @@
 # Literature survey of algorithms to compute Longest Common Subsequence
-This project contains implementation of four different alogrithms to compute Longes common subsequence of two string sequences. 
-The string sequences are generated and perfomrances of algorithms are compared.
+This project contains implementation of four different algorithms to compute Longest common subsequence of two string sequences. 
+The string sequences are generated and performances of algorithms are compared.
 
 # Algorithms implemented
 * Recursive algorithm
